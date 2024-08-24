@@ -1,6 +1,5 @@
 # FAKE-CURRENCY-DETECTION-USING-IMAGE-PROCESSING
-Detect counterfeit currency using image processing. Analyzes features like transparent strips &amp; patterns, comparing real vs. fake notes to determine authenticity.
-Sure, here's a README file for your project:
+Detect counterfeit currency using image processing. Analyzes features like transparent strips &amp; patterns, comparing real vs. fake notes to determine authenticity.:
 
 ## Overview
 
@@ -38,9 +37,5 @@ The project utilizes computer vision libraries like OpenCV and NumPy to process 
 ## Contribution
 
 Contributions to the project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
